@@ -6,7 +6,7 @@
 这部分仅针对Spigot开发人员。本指南假定读者在 Minecraft 中没有以前的修改(modding)经验。因此, 指南可以/应该以渐进的顺序读取。拥有丰富游戏经验的，可以忽略某些部分。在适用的情况下，将展示每个指南的Eclipse和IntelliJ版本。
 
 **向导**
-- Java速成
+- [Java速成](https://github.com/PChenWillPlay/Spigot-Plugin-Development-Chinese/blob/master/crash-course-to-java.md)
 - 创建一个空白插件(Eclipse | IntelliJ | NetBeans |...)
 - 创建离线Javadoc（可选）
 - 创建并注册一个基础命令
