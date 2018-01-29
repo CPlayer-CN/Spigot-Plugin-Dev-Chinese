@@ -1,4 +1,4 @@
-翻译时间 2018年1月29日21:35:38 - 2018年1月29日21:59:05
+翻译时间 2018年1月29日21:35:38 - 2018年1月29日21:59:05  
 原文链接 https://www.spigotmc.org/wiki/spigot-plugin-development
 
 # Spigot 插件开发
