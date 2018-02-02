@@ -7,7 +7,7 @@
 
 如果你发现任何拼写/语法错误，或者想到应该添加的任何内容，请随时向原作者发送（[Trophonix](https://www.spigotmc.org/members/68234/)）或进行小编辑[small edits]（如果这是一个很大的变化，请先PM，这样我们可以讨论如何正确地整合它， 谢谢）..
 
-从[部分0]:(https://github.com/PChenWillPlay/Spigot-Plugin-Dev-Chinese/blob/master/crash-course-to-java-part-0.md)开始！
+从[部分0](https://github.com/PChenWillPlay/Spigot-Plugin-Dev-Chinese/blob/master/crash-course-to-java-part-0.md)开始！
 
 ---
 Welcome to my Crash Course to Java! While this is by no means a valid substitute for years of experience or a college degree, the contents of this wiki will hopefully give you everything you need to write a relatively functional program (and maybe even a plugin) in Java.
